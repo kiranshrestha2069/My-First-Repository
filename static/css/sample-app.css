@@ -1,3 +1,49 @@
 .jumbotron {
   margin-top: 1em;  // add a little space
 }
+.main{
+    color:red;
+    border:solid red 10px;
+    width:100%;
+}
+body{
+border:10px;
+  width:80%;
+  padding-left:10%;
+
+
+}
+.small-box{
+    border:solid black 1px ;
+    width:15%;
+    height:70px;
+    padding-left:2%;
+  padding-top:4px;
+
+}
+.small-box-right{
+    float:right;
+  margin-top:-75px;
+  }
+.floating{
+  display: inline-block;
+  width:10%;
+  height:30%;
+  padding-left:1%;
+  padding-top:4px;
+  border:solid black 1px ;
+  }
+.textarea{
+  height:100px;
+  width:30%;
+ }
+.form{
+  padding:40px 40px;
+}
+#faculty-sponsor{
+  height:80%;
+}
+#faculty-sponsor b{
+  color:red;
+  padding-right:100px
+}
